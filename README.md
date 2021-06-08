@@ -1,2 +1,2 @@
 # Split racer
-Casual game car runner with power ups
+Casual mobile game car runner with power ups
